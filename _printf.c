@@ -3,7 +3,7 @@
 void print_buffer(char buffer[], int *buff_ind);
 
 /**
-* _printf - Printf function task
+* _printf - Printf function
 * @format: format.
 * Return: Printed chars.
 */
@@ -61,5 +61,6 @@ void print_buffer(char buffer[], int *buff_ind)
 {
 if (*buff_ind > 0)
 write(1, &buffer[0], *buff_ind);
+
 *buff_ind = 0;
 }
