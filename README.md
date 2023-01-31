@@ -1,4 +1,4 @@
-Team Project on 0x11. C - printf by iDouble and Sammy
+Team Project on 0x11. C - printf by Trevio2 and Tijjani
 
 Group Project:
 
